@@ -1,22 +1,22 @@
-# 📊 NVIDIA FY2025 Financial Research & Data Verification
+#  NVIDIA FY2025 Financial Research & Data Verification
 
-## 🔍 Research Question
+##  Research Question
 **What drove NVIDIA’s explosive FY2025 performance, and is it financially sustainable?**
 
 ---
 
-## 🏢 Company
+##  Company
 NVIDIA Corporation (NVDA)
 
-## 👩‍💻 Analyst
+##  Analyst
 Prathyusha
 
-## 📅 Date
+##  Date
 16 Feb 2026
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 This project demonstrates structured financial research using **primary SEC filings only** (Form 10-K and Form 10-Q).
 
@@ -28,11 +28,11 @@ Goals:
 - Document methodology for reproducibility
 - Evaluate financial sustainability
 
-✅ No third-party aggregation platforms (Yahoo Finance, Bloomberg, etc.) were used.
+ No third-party aggregation platforms (Yahoo Finance, Bloomberg, etc.) were used.
 
 ---
 
-## 📚 Data Sources
+##  Data Sources
 
 | Filing | Period | Purpose | Status |
 |--------|--------|----------|--------|
@@ -43,7 +43,7 @@ All filings sourced directly from **SEC EDGAR**.
 
 ---
 
-## 🧮 Key Financial Highlights (FY2025 – 10-K)
+##  Key Financial Highlights (FY2025 – 10-K)
 
 - Revenue: **$130.5B**
 - Gross Profit: **$97.9B**
@@ -55,9 +55,9 @@ All filings sourced directly from **SEC EDGAR**.
 
 ---
 
-## 🚀 What Drove FY2025 Explosion?
+##  What Drove FY2025 Explosion?
 
-### 1️⃣ Revenue Growth
+### 1️ Revenue Growth
 
 Revenue more than doubled YoY.
 
@@ -65,7 +65,7 @@ Revenue more than doubled YoY.
 Revenue\ Growth = \frac{FY25 - FY24}{FY24} = 114\%
 \]
 
-### 2️⃣ AI Segment Concentration
+### 2️ AI Segment Concentration
 
 - Compute & Networking Revenue: **$116.2B**
 - Total Revenue: **$130.5B**
@@ -74,11 +74,11 @@ Revenue\ Growth = \frac{FY25 - FY24}{FY24} = 114\%
 Segment\ Share = \frac{116.2}{130.5} \approx 89\%
 \]
 
-👉 AI/Data Center demand was the dominant driver.
+ AI/Data Center demand was the dominant driver.
 
 ---
 
-### 3️⃣ Margin Expansion
+### 3️ Margin Expansion
 
 \[
 Gross\ Margin = \frac{Gross\ Profit}{Revenue} = 75\%
@@ -88,7 +88,7 @@ High ASP AI accelerators significantly expanded margins.
 
 ---
 
-### 4️⃣ Operating Leverage
+### 4️ Operating Leverage
 
 \[
 Operating\ Margin = \frac{Operating\ Income}{Revenue} = 62.4\%
@@ -98,7 +98,7 @@ Revenue doubled while operating expenses grew slower — confirming scalability.
 
 ---
 
-## 📊 DuPont ROE Decomposition
+##  DuPont ROE Decomposition
 
 \[
 ROE = Net\ Margin \times Asset\ Turnover \times Equity\ Multiplier
@@ -116,7 +116,7 @@ ROE \approx 0.558 \times 1.17 \times 1.41 \approx 92\%
 
 ---
 
-## 💰 Cash Flow Sustainability (10-Q – 9 Months)
+##  Cash Flow Sustainability (10-Q – 9 Months)
 
 - Operating Cash Flow: **$47.0B**
 - CapEx: **$2.8B**
@@ -133,7 +133,7 @@ Strong earnings quality and cash backing.
 
 ---
 
-## ⚖ Financial Sustainability Assessment
+##  Financial Sustainability Assessment
 
 | Pillar | Status |
 |--------|--------|
@@ -144,7 +144,7 @@ Strong earnings quality and cash backing.
 
 ---
 
-## ⚠ Key Risk Factors
+##  Key Risk Factors
 
 - 89% revenue concentration in AI Compute
 - AI demand cyclicality
@@ -153,7 +153,7 @@ Strong earnings quality and cash backing.
 
 ---
 
-## 📌 Conclusion
+##  Conclusion
 
 NVIDIA’s FY2025 performance was driven primarily by:
 - AI/Data Center demand
@@ -171,7 +171,7 @@ However, growth remains strategically concentrated in the AI demand cycle.
 
 ---
 
-## 🛠 Methodology
+##  Methodology
 
 - All data extracted manually from:
   - Consolidated Statements of Income
@@ -183,7 +183,7 @@ However, growth remains strategically concentrated in the AI demand cycle.
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 📂 NVIDIA-Financial-Research
