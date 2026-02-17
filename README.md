@@ -112,7 +112,7 @@ ROE = Net\ Margin \times Asset\ Turnover \times Equity\ Multiplier
 ROE \approx 0.558 \times 1.17 \times 1.41 \approx 92\%
 \]
 
-🔎 ROE is profitability-driven, not leverage-driven.
+ ROE is profitability-driven, not leverage-driven.
 
 ---
 
